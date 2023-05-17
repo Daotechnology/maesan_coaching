@@ -10,4 +10,5 @@ git push
 
 
 //Clone code 
-git clone 
+git clone https://github.com/Daotechnology/maesan_coaching.git      //this will clone this repository on your local machine(vs code)
+
